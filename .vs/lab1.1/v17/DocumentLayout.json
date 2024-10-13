@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karpe\\Desktop\\\u0423\u043D\u0438\u043A\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u041F\u0411\u0414\\Base\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{450C52FF-9D84-4817-91F1-5DB9EC687F56}|lab1.1\\lab1.1.csproj|c:\\users\\karpe\\desktop\\\u0443\u043D\u0438\u043A\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u043F\u0431\u0434\\base\\lab1.1\\lab1.1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{450C52FF-9D84-4817-91F1-5DB9EC687F56}|lab1.1\\lab1.1.csproj|solutionrelative:lab1.1\\lab1.1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab1.1",
+              "DocumentMoniker": "C:\\Users\\karpe\\Desktop\\\u0423\u043D\u0438\u043A\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u041F\u0411\u0414\\Base\\lab1.1\\lab1.1.csproj",
+              "RelativeDocumentMoniker": "lab1.1\\lab1.1.csproj",
+              "ToolTip": "C:\\Users\\karpe\\Desktop\\\u0423\u043D\u0438\u043A\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u041F\u0411\u0414\\Base\\lab1.1\\lab1.1.csproj",
+              "RelativeToolTip": "lab1.1\\lab1.1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-13T13:25:22.913Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
